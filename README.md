@@ -28,4 +28,51 @@ Participated in project ideation and proposal development. Contributed to design
 
 ---
 
+## Annotated Table of Contents  
+
+### **Project Documentation**
+| Item | Description | Contributor(s) |
+|------|-------------|----------------|
+| [`/project_proposal`](project_proposal/) | Final project proposal (PDF & DOCX) | Team |
+| [`/meeting_minutes`](meeting_minutes/) | Weekly meeting notes documenting project process | Team |
+| [`/methodology_artifacts`](methodology_artifacts/) | Gantt chart, Risk register, methodology | Team |
+
+### **Source Code & Notebooks**
+| Item | Description | Contributor(s) |
+|------|-------------|----------------|
+| [`/source_code/app.py`](source_code/app.py) | Main Gradio application | Anjali (60%), Sandra (20%), Aleksandrs (20%) |
+| [`/source_code/extract.py`](source_code/extract.py) | PDF ingestion & LLM-based extraction | Anjali (60%), Sandra (20%), Aleksandrs (20%) |
+| [`/source_code/ratios.py`](source_code/ratios.py) | Financial ratio calculations | Anjali (40%), Sandra (40%), Aleksandrs (20%) |
+| [`/notebooks/financial_ai_agent.ipynb`](notebooks/financial_ai_agent.ipynb) | Development notebook | Anjali (60%), Sandra (20%), Aleksandrs (20%) |
+
+### **Data & Results**
+| Item | Description | Contributor(s) |
+|------|-------------|----------------|
+| [`/data/raw_pdfs`](data/raw_pdfs/) | Annual report PDFs used for testing | Sandra (80%), Aleksandrs (20%) |
+| [`/results/plots`](results/plots/) | Generated Plotly visualisations | Anjali (40%), Sandra (30%), Aleksandrs (30%) |
+| [`/results/outputs`](results/outputs/) | Extracted tables, peer review text outputs | Anjali (35%), Sandra (35%), Aleksandrs (30%) |
+
+### **Presentations & Reports**
+| Item | Description | Contributor(s) |
+|------|-------------|----------------|
+| [`/presentations/final_presentation.pdf`](presentations/final_presentation.pdf) | Final project presentation | Team |
+| [`/individual_reflections`](individual_reflections/) | Individual reflective reports | Individual authors |
+
+---
+
+## 🚀 How to Run the Project
+
+### **Requirements**
+- Python 3.10+  
+- API key for one of:
+  - OpenAI (GPT-4o)
+  - Groq (Llama-3)
+  - Google Gemini Pro  
+
+### **1. Clone the repository**
+```bash
+git clone https://github.com/yourusername/Finance-AI-Agent.git
+cd Finance-AI-Agent
+
+
 

@@ -34,8 +34,8 @@ Participated in project ideation and proposal development. Contributed to design
 | Item | Description | Contributor(s) |
 |------|-------------|----------------|
 | [`/project_proposal`](project_proposal/) | Final project proposal| Anjali (40%), Sandra (40%), Aleksandrs (20%) |
-| [`/meeting_minutes`](meeting_minutes/) | Weekly meeting notes documenting project process | Team |
-| [`/methodology_artifacts`](methodology_artifacts/) | Gantt chart, Risk register, methodology | Team |
+| [`/meeting_minutes`](meeting_minutes/) | Weekly meeting notes documenting project process | Anjali (20%), Sandra (60%), Aleksandrs (20%) |
+| [`/methodology_artifacts`](methodology_artifacts/) | Gantt chart, Risk register, methodology | Anjali (40%), Sandra (40%), Aleksandrs (20%) |
 
 ### **Notebooks**
 | Item | Description | Contributor(s) |

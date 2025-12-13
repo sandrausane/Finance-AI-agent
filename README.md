@@ -43,7 +43,7 @@ Participated in project ideation and proposal development. Contributed to design
 | [`/source_code/app.py`](source_code/app.py) | Main Gradio application | Anjali (60%), Sandra (20%), Aleksandrs (20%) |
 | [`/source_code/extract.py`](source_code/extract.py) | PDF ingestion & LLM-based extraction | Anjali (60%), Sandra (20%), Aleksandrs (20%) |
 | [`/source_code/ratios.py`](source_code/ratios.py) | Financial ratio calculations | Anjali (40%), Sandra (40%), Aleksandrs (20%) |
-| [`/notebooks/Fnance_AI_Agent.ipynb`](notebooks/Finance_AI_Agent.ipynb) | Development notebook | Anjali (60%), Sandra (20%), Aleksandrs (20%) |
+| [`/notebooks/Finance_AI_Agent.ipynb`](notebooks/Finance_AI_Agent.ipynb) | Development notebook | Anjali (60%), Sandra (20%), Aleksandrs (20%) |
 
 ### **Data & Results**
 | Item | Description | Contributor(s) |

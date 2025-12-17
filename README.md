@@ -53,9 +53,17 @@ Participated in project ideation and proposal development. Contributed to design
 |------|-------------|----------------|
 | [`/presentations/final_presentation.pdf`](presentations/final_presentation.pdf) | Final project presentation | Team |
 
+### Deployment
+
+| Item | Description | Contributor(s) |
+|------|------------|---------------|
+| [Deployment & Live Demonstrations](#-deployment--live-demonstrations) | Publicly accessible AI agent deployments (Hugging Face & Streamlit) | Anjali (60%), Sandra (20%), Aleksandrs (20%) |
+| [Deployment Source Code Repository](https://github.com/anjalii-s/AI_Agent_for_Latvian_Financial_Report_Analysis-) | Deployment-specific implementation and configuration | Anjali (70%), Sandra (15%), Aleksandrs (15%) |
+
+
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### **Requirements**
 - Python 3.10+  
@@ -68,6 +76,53 @@ Participated in project ideation and proposal development. Contributed to design
 ```bash
 git clone https://github.com/yourusername/Finance-AI-Agent.git
 cd Finance-AI-Agent
+
+## Deployment & Live Demonstrations
+
+In addition to the development notebook and local prototype, the Finance-AI-agent has been deployed as publicly accessible applications to demonstrate real-world usability, reproducibility, and scalability.
+
+### Hugging Face Spaces Deployment
+A hosted version of the AI agent is available on Hugging Face Spaces, allowing users to upload annual financial reports and interact with the system through a web interface.
+
+- **Live application:**  
+  https://huggingface.co/spaces/Anjali488/AI_agent_deployment
+- **Purpose:** Demonstrates end-to-end functionality, including PDF ingestion, LLM-based financial data extraction, automated ratio calculation, and narrative financial analysis.
+- **Technology:** Python, Hugging Face Spaces, Gradio
+
+**Contributors:** Anjali (60%), Sandra (25%), Aleksandrs (15%)
+
+---
+
+### Streamlit Cloud Deployment
+A parallel deployment has been implemented using Streamlit Cloud to explore an alternative user interface and deployment environment.
+
+- **Live application:**  
+  https://financialaiagent.streamlit.app/
+- **Purpose:** Provides an interactive dashboard-style interface for financial analysis and visualisation.
+- **Technology:** Python, Streamlit, Plotly
+
+**Contributors:** Anjali (60%), Sandra (25%), Aleksandrs (15%)
+
+---
+
+### Deployment Source Code Repository
+All deployment-specific source code and configuration files are maintained in a separate public GitHub repository to ensure a clear separation between development, experimentation, and production deployment.
+
+- **Repository:**  
+  https://github.com/anjalii-s/AI_Agent_for_Latvian_Financial_Report_Analysis-
+- **Contents:**  
+  - Streamlit application source code  
+  - Hugging Face Spaces configuration  
+  - Environment and dependency setup files
+
+**Contributors:** Anjali (70%), Sandra (20%), Aleksandrs (10%)
+
+---
+
+### Note on Project Structure
+This repository focuses on the project portfolio, including research process evidence, methodology artefacts, notebooks, datasets, results, and documentation.  
+Deployment-specific code is intentionally maintained in a separate repository in line with best practices for modular and maintainable project organisation.
+
 
 
 

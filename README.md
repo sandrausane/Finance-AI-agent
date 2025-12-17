@@ -5,11 +5,12 @@ This project develops an AI-powered agent capable of analysing annual financial 
 The system supports Latvian company reports and handles financial data in PDFs, providing multilingual output.
 
 The agent combines:
-- **LLM-based extraction** (OpenAI GPT-4o, Groq Llama-3, Gemini Flash 2.5)  
-- **Structured parsing** using a Pydantic schema  
-- **Python-based financial ratio calculations** (liquidity, profitability, solvency)  
-- **Plotly visualisations** for cross-company comparison  
-- **A Gradio UI** for uploading PDFs and receiving analysis  
+- **LLM-based extraction** (OpenAI GPT-4o, Groq Llama-3, Gemini Flash 2.5)
+- **Structured parsing** using a Pydantic schema
+- **Python-based financial ratio calculations** (liquidity, profitability, solvency)
+- **Plotly visualisations** for cross-company comparison
+- **Interactive user interfaces** implemented with Gradio, Hugging Face Spaces, and Streamlit for uploading PDFs, exploring results, and exporting structured outputs (TXT, CSV)
+
 
 This repository contains the full project portfolio, including code, data, methodology artefacts, meeting minutes, presentations, and results.
 
@@ -70,13 +71,8 @@ Participated in project ideation and proposal development. Contributed to design
 - API key for one of:
   - OpenAI (GPT-4o)
   - Groq (Llama-3)
-  - Google Gemini (Flash 2.5)  
-
-### **1. Clone the repository**
-```bash
-git clone https://github.com/yourusername/Finance-AI-Agent.git
-cd Finance-AI-Agent
-
+  - Google Gemini (Flash 2.5)
+ 
 ## Deployment & Live Demonstrations
 
 In addition to the development notebook and local prototype, the Finance-AI-agent has been deployed as publicly accessible applications to demonstrate real-world usability, reproducibility, and scalability.
@@ -99,9 +95,11 @@ A parallel deployment has been implemented using Streamlit Cloud to explore an a
 - **Live application:**  
   https://financialaiagent.streamlit.app/
 - **Purpose:** Provides an interactive dashboard-style interface for financial analysis and visualisation.
+- **Additional functionality:** Allows users to export extracted financial data and computed ratios in TXT and CSV formats for further analysis or reporting.
 - **Technology:** Python, Streamlit, Plotly
 
-**Contributors:** Anjali (60%), Sandra (25%), Aleksandrs (15%)
+**Contributors:** Anjali (60%), Sandra (20%), Aleksandrs (20%)
+
 
 ---
 
@@ -122,6 +120,13 @@ All deployment-specific source code and configuration files are maintained in a 
 ### Note on Project Structure
 This repository focuses on the project portfolio, including research process evidence, methodology artefacts, notebooks, datasets, results, and documentation.  
 Deployment-specific code is intentionally maintained in a separate repository in line with best practices for modular and maintainable project organisation.
+
+ 
+
+### **1. Clone the repository**
+```bash
+git clone https://github.com/yourusername/Finance-AI-Agent.git
+cd Finance-AI-Agent
 
 
 

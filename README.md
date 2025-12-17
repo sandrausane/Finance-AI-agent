@@ -58,8 +58,8 @@ Participated in project ideation and proposal development. Contributed to design
 
 | Item | Description | Contributor(s) |
 |------|------------|---------------|
-| [Deployment & Live Demonstrations](#-deployment--live-demonstrations) | Publicly accessible AI agent deployments (Hugging Face & Streamlit) | Anjali (60%), Sandra (20%), Aleksandrs (20%) |
-| [Deployment Source Code Repository](https://github.com/anjalii-s/AI_Agent_for_Latvian_Financial_Report_Analysis-) | Deployment-specific implementation and configuration | Anjali (70%), Sandra (15%), Aleksandrs (15%) |
+| [Deployment & Live Demonstrations](#deployment--live-demonstrations) | Publicly accessible AI agent deployments (Hugging Face & Streamlit) | Anjali (60%), Sandra (25%), Aleksandrs (15%) |
+| [Deployment Source Code Repository](https://github.com/anjalii-s/AI_Agent_for_Latvian_Financial_Report_Analysis-) | Deployment-specific implementation and configuration | Anjali (70%), Sandra (20%), Aleksandrs (10%) |
 
 
 ---
@@ -98,7 +98,7 @@ A parallel deployment has been implemented using Streamlit Cloud to explore an a
 - **Additional functionality:** Allows users to export extracted financial data and computed ratios in TXT and CSV formats for further analysis or reporting.
 - **Technology:** Python, Streamlit, Plotly
 
-**Contributors:** Anjali (60%), Sandra (20%), Aleksandrs (20%)
+**Contributors:** Anjali (60%), Sandra (25%), Aleksandrs (15%)
 
 
 ---

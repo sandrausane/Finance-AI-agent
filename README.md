@@ -5,7 +5,7 @@ This project develops an AI-powered agent capable of analysing annual financial 
 The system supports Latvian company reports and handles financial data in PDFs, providing multilingual output.
 
 The agent combines:
-- **LLM-based extraction** (OpenAI GPT-4o, Groq Llama-3, Gemini Pro)  
+- **LLM-based extraction** (OpenAI GPT-4o, Groq Llama-3, Gemini Flash 2.5)  
 - **Structured parsing** using a Pydantic schema  
 - **Python-based financial ratio calculations** (liquidity, profitability, solvency)  
 - **Plotly visualisations** for cross-company comparison  
@@ -62,7 +62,7 @@ Participated in project ideation and proposal development. Contributed to design
 - API key for one of:
   - OpenAI (GPT-4o)
   - Groq (Llama-3)
-  - Google Gemini Pro  
+  - Google Gemini (Flash 2.5)  
 
 ### **1. Clone the repository**
 ```bash

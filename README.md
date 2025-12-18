@@ -10,7 +10,7 @@ The agent combines:
 - **Python-based financial ratio calculations** (liquidity, profitability, solvency)
 - **Plotly visualisations** for cross-company comparison
 - **Interactive user interfaces** implemented with Gradio, Hugging Face Spaces, and Streamlit for uploading PDFs, exploring results, and exporting structured outputs (TXT, CSV)
-- **LangChain integration** for prompt chaining, clean output parsing, and managing multiple LLMs. Optional but adds modularity and reliability.
+- **LangChain integration** for prompt chaining, clean output parsing, and managing multiple LLMs. 
 
 
 This repository contains the full project portfolio, including code, data, methodology artefacts, meeting minutes, presentations, and results.

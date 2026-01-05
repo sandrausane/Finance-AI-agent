@@ -53,7 +53,7 @@ Participated in project ideation and proposal development. Contributed to design
 ### **Presentations & Reports**
 | Item | Description | Contributor(s) |
 |------|-------------|----------------|
-| [`/presentations/final_presentation.pdf`](presentations/final_presentation.pdf) | Final project presentation | Team |
+| [presentation](presentation/) | Final project presentation | Team |
 
 ### Deployment
 
